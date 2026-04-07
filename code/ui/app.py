@@ -6,8 +6,8 @@ from datetime import datetime
 import os
 
 st.set_page_config(page_title="AeroScore Dashboard", layout="wide")
-st.title("🚀 AeroScore Dashboard")
-st.markdown("**Aircraft Asset Scoring System** — Credit-score style (300–850) with Environmental Impact")
+st.title("🚀 AeroScore Dashboard 🛩️")
+st.markdown("**Aircraft Asset Scoring System** - Credit-score style (300–850) with Environmental Impact")
 
 # ========================== LOAD DATA ==========================
 @st.cache_data
